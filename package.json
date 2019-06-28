@@ -1,22 +1,22 @@
 {
-  "name": "ci-cd-node-example",
+  "name": "cicd-node-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kmarabet/ci-cd-node-example.git"
+    "url": "git+https://github.com/kmarabet/cicd-node-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kmarabet/ci-cd-node-example/issues"
+    "url": "https://github.com/kmarabet/cicd-node-example/issues"
   },
-  "homepage": "https://github.com/kmarabet/ci-cd-node-example#readme",
+  "homepage": "https://github.com/kmarabet/cicd-node-example#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
